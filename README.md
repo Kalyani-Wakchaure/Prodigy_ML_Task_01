@@ -7,3 +7,4 @@ In this project I have created Machine Learning Linear Regression Model. Analyze
 House price prediction is the process of using data to estimate the value of a house. This can be done for a variety of reasons, such as to determine the value of a home for sale, to assess the risk of a mortgage, or to make investment decisions. There are a variety of different methods that can be used to predict house prices. Some of the most common methods include:
 
 Linear regression: This is a simple method that uses a straight line to predict the value of a house.
+The accuracy of house price prediction models can vary depending on the quality of the data and the method that is used. However, these models can be a valuable tool for making informed decisions about the housing market.
